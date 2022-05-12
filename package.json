@@ -1,0 +1,14 @@
+{
+	"name": "order-summary-component-main",
+	"version": "1.0.0",
+	"description": "![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)",
+	"main": "index.js",
+	"scripts": {
+		"bluid:css": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"tailwindcss": "^3.0.24"
+	}
+}
